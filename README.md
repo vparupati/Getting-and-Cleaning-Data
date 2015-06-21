@@ -1,7 +1,7 @@
 # Getting and Cleaning Data
 
 This repository is ment to clean data as part of project for the course "Getting and Cleaning Data".
-
+###### Instructions to run the script on local
 * Clone this project to you local.(on my local it is "G:\courcera-RWorking\Getting-and-Cleaning-Data")
 * Set working directory to project dir(for my instance G:\courcera-RWorking\Getting-and-Cleaning-Data)
 * Remove existing data files under data folder  in working directory
